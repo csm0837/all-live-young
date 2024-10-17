@@ -97,51 +97,49 @@
 ## 6. 회원관리 / 고객센터
 
 #### 대시보드
-<img width="808" alt="image" src="https://github.com/user-attachments/assets/447ddb0c-bbd0-46c9-a435-f9aad593e825">
+<img src="https://github.com/user-attachments/assets/447ddb0c-bbd0-46c9-a435-f9aad593e825" width="500">
 
 #### 회원가입 화면(다음 주소 API 사용)
-![image](https://github.com/user-attachments/assets/15802782-297e-4335-b2d5-4b45e77efad1)
+<img src="https://github.com/user-attachments/assets/15802782-297e-4335-b2d5-4b45e77efad1" width="500">
 
+#### 회원가입 성공 화면
+<img src="https://github.com/user-attachments/assets/b8a15813-c3bf-4038-8611-ee9560af4c23" width="500">
 
-####회원가입 성공 화면
-<img width="718" alt="image" src="https://github.com/user-attachments/assets/b8a15813-c3bf-4038-8611-ee9560af4c23">
+#### 로그인 화면
+<img src="https://github.com/user-attachments/assets/ec88944a-5008-4fbe-ad8b-05653703f7f7" width="500">
 
-####로그인 화면
-![image](https://github.com/user-attachments/assets/ec88944a-5008-4fbe-ad8b-05653703f7f7)
+#### 회원 목록 조회(관리자 기능)
+<img src="https://github.com/user-attachments/assets/8f28ad80-9fc8-488b-a83e-edd2adecb07a" width="500">
 
-####회원 목록 조회(관리자 기능)
-![image](https://github.com/user-attachments/assets/8f28ad80-9fc8-488b-a83e-edd2adecb07a)
+#### 회원 상세 조회(관리자 기능)
+<img src="https://github.com/user-attachments/assets/cac21d39-28f2-497b-9060-8de55e7e5ef2" width="500">
 
-####회원 상세 조회(관리자 기능)
-![image](https://github.com/user-attachments/assets/cac21d39-28f2-497b-9060-8de55e7e5ef2)
+#### 회원가입 승인 요청 목록 조회(관리자 기능)
+<img src="https://github.com/user-attachments/assets/55fa4f4d-0257-4f3c-9620-2e747c5d8fb1" width="500">
 
-####회원가입 승인 요청 목록 조회(관리자 기능)
-![image](https://github.com/user-attachments/assets/55fa4f4d-0257-4f3c-9620-2e747c5d8fb1)
+#### 회원가입 승인 요청 상세 조회(관리자 기능)
+<img src="https://github.com/user-attachments/assets/e50c2909-7952-4bf8-b8d2-de1224fd6096" width="500">
 
-####회원가입 승인 요청 상세  조회(관리자 기능)
-![image](https://github.com/user-attachments/assets/e50c2909-7952-4bf8-b8d2-de1224fd6096)
+#### 회원가입 승인 탈퇴 목록 조회(관리자 기능)
+<img src="https://github.com/user-attachments/assets/2544cd7d-2a87-464c-803c-f5b752de78bd" width="500">
 
-####회원가입 승인 탈퇴 목록 조회(관리자 기능)
-![image](https://github.com/user-attachments/assets/2544cd7d-2a87-464c-803c-f5b752de78bd)
+#### 회원가입 승인 탈퇴 상세 조회(관리자 기능)
+<img src="https://github.com/user-attachments/assets/b1dc254e-43e3-4a60-a403-ec3d291c0fe4" width="500">
 
-####회원가입 승인 탈퇴 상세 조회(관리자 기능)
-![image](https://github.com/user-attachments/assets/b1dc254e-43e3-4a60-a403-ec3d291c0fe4)
+#### 나의 정보 조회(마이페이지)
+<img src="https://github.com/user-attachments/assets/29da9949-6245-45bc-9a9b-2720aa64d152" width="500">
 
+#### 나의 정보 수정(마이페이지)
+<img src="https://github.com/user-attachments/assets/109ba23c-49ea-4a7e-be69-3295ec966847" width="500">
 
-####나의 정보 조회(마이페이지)
-![image](https://github.com/user-attachments/assets/29da9949-6245-45bc-9a9b-2720aa64d152)
+#### 공지사항 목록
+<img src="https://github.com/user-attachments/assets/0b7ed6b7-10e6-499a-ace7-55350dae5096" width="500">
 
-####나의 정보 수정(마이페이지)
-![image](https://github.com/user-attachments/assets/109ba23c-49ea-4a7e-be69-3295ec966847)
+#### 공지사항 상세 조회
+<img src="https://github.com/user-attachments/assets/9b9b7191-8fc5-4797-bfb6-14f516209073" width="500">
 
-####공지사항 목록
-https://github.com/user-attachments/assets/0b7ed6b7-10e6-499a-ace7-55350dae5096
-
-####공지사항 상세 조회
-![image](https://github.com/user-attachments/assets/9b9b7191-8fc5-4797-bfb6-14f516209073)
-
-####공지사항 작성
-![image](https://github.com/user-attachments/assets/9fda2454-2df7-4e7b-a92c-5ef9c6148d65)
+#### 공지사항 작성
+<img src="https://github.com/user-attachments/assets/9fda2454-2df7-4e7b-a92c-5ef9c6148d65" width="500">
 
 
 
